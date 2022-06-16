@@ -1,0 +1,18 @@
+[
+  {
+    "package": "bibliometrix",
+    "oncran": true
+  },
+  {
+    "package": "dimensionsR",
+    "oncran": true
+  },
+  {
+    "package": "openalexR",
+    "oncran": true
+  },
+  {
+    "package": "pubmedR",
+    "oncran": true
+  }
+]
