@@ -8,6 +8,11 @@
 	url = https://github.com/massimoaria/bibliometrix
 	shallow = true
 	registered = true
+[submodule "dimensionsR"]
+	path = dimensionsR
+	url = https://github.com/massimoaria/dimensionsr
+	shallow = true
+	registered = true
 [submodule "openalexR"]
 	path = openalexR
 	url = https://github.com/massimoaria/openalexr
