@@ -11,3 +11,6 @@
 [submodule "pubmedR"]
 	path = pubmedR
 	url = https://github.com/massimoaria/pubmedr
+[submodule "tall"]
+	path = tall
+	url = https://github.com/massimoaria/tall
