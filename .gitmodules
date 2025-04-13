@@ -8,6 +8,9 @@
 [submodule "dimensionsR"]
 	path = dimensionsR
 	url = https://github.com/massimoaria/dimensionsr
+[submodule "e2tree"]
+	path = e2tree
+	url = https://github.com/massimoaria/e2tree
 [submodule "pubmedR"]
 	path = pubmedR
 	url = https://github.com/massimoaria/pubmedr
