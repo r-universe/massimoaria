@@ -8,6 +8,9 @@
 [submodule "bibliometrixData"]
 	path = bibliometrixData
 	url = https://github.com/massimoaria/bibliometrixdata
+[submodule "contentanalysis"]
+	path = contentanalysis
+	url = https://github.com/massimoaria/contentanalysis
 [submodule "dimensionsR"]
 	path = dimensionsR
 	url = https://github.com/massimoaria/dimensionsr
